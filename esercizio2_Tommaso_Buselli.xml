@@ -1,0 +1,41 @@
+<carrello>
+    <articolo>
+        <nome>Latte parzialmente scremato</nome>
+        <quantità>2</quantità>
+        <unità>confezioni</unità>
+        <volume>1 litro</volume>
+        <scadenza>almeno 4 giorni dalla consegna</scadenza>
+    </articolo>
+    <articolo>
+        <nome>Gelato</nome>
+		<marca>Slurp</marca>
+        <quantità>1</quantità>
+        <unità>confezione</unità>
+        <gusto>limone</gusto>
+        <peso>250 grammi</peso>
+    </articolo>
+    <articolo>
+        <nome>Caffè</nome>
+		<marca>Hug</marca>
+        <quantità>1</quantità>
+        <unità>confezione</unità>
+        <formato>20 bustine</formato>
+    </articolo>
+    <articolo>
+        <nome>Pane senza sale</nome>
+        <quantità>2</quantità>
+        <unità>pezzi</unità>
+        <peso>500 grammi</peso>
+    </articolo>
+    <articolo>
+        <nome>Pomodoro oblungo rosso</nome>
+        <quantità>0.5</quantità>
+        <unità>kg</unità>
+    </articolo>
+    <articolo>
+        <nome>Acqua naturale</nome>
+        <quantità>1</quantità>
+        <unità>cassa</unità>
+        <contenuto>6 bottiglie</contenuto>
+    </articolo>
+</carrello>

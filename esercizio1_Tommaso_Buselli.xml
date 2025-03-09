@@ -1,0 +1,27 @@
+<ordine>
+    <cliente>
+        <nome>Paolo</nome>
+        <cognome>Rossi</cognome>
+        <indirizzo>
+            <città>Livorno</città>
+            <via>Via dei Pensieri 60</via>
+        </indirizzo>
+        <contatto>p.rossi@mail.com</contatto>
+    </cliente>
+    <dettagliOrdine>
+        <dataOrdine>2013-06-10</dataOrdine>
+        <oraOrdine>09:30</oraOrdine>
+        <consegna>
+            <data>2013-06-10</data>
+            <fasciaOraria>
+                <dalle>13:30</dalle>
+                <alle>14:00</alle>
+            </fasciaOraria>
+            <destinazione>domicilio</destinazione>
+        </consegna>
+        <pagamento>
+            <metodo>carta di credito</metodo>
+            <momento>dopo consegna</momento>
+        </pagamento>
+    </dettagliOrdine>
+</ordine>
